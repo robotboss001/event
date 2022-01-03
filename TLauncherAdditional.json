@@ -1,0 +1,384 @@
+{
+  "activateSkinCapeForUserVersion": false,
+  "additionalFiles": [],
+  "tlauncherVersion": 0,
+  "modpack": {
+    "modpackMemory": false,
+    "memory": 0,
+    "id": -1128408170109900,
+    "name": "event-flag",
+    "version": {
+      "mods": [
+        {
+          "stateGameElement": "active",
+          "id": 10000020,
+          "name": "TL skin and cape",
+          "version": {
+            "id": 11000372,
+            "name": "1.4",
+            "metadata": {
+              "sha1": "d0483ac68cbeea22d6a2c46984c4cc7de4d3ce42",
+              "size": 193898,
+              "path": "mods/tlskincape1.12.2-1.4.jar",
+              "url": "/mods/10000020/11000372/tlskincape1.12.2-1.4.jar"
+            }
+          },
+          "userInstall": false,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728216115500,
+          "name": "ChickenASM-1.12-1.0.2.7",
+          "version": {
+            "id": -1128728217718000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "ed72a18e64a7eb628ec14832a7e02128904cc6f7",
+              "size": 55622,
+              "path": "mods/1.12.2/ChickenASM-1.12-1.0.2.7.jar",
+              "url": "mods/1.12.2/ChickenASM-1.12-1.0.2.7.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728217751600,
+          "name": "BuildingGadgets-2.8.4",
+          "version": {
+            "id": -1128728244917200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "7f33f2343bf0af70d5d853378d465657beea3740",
+              "size": 719492,
+              "path": "mods/BuildingGadgets-2.8.4.jar",
+              "url": "mods/BuildingGadgets-2.8.4.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728244945200,
+          "name": "CodeChickenLib-1.12.2-3.2.3.358-universal",
+          "version": {
+            "id": -1128728270566400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "b6a7e3b889c354216059a3bfad298e30a1e46a2d",
+              "size": 704330,
+              "path": "mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar",
+              "url": "mods/CodeChickenLib-1.12.2-3.2.3.358-universal.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728270594000,
+          "name": "CTM-MC1.12.2-1.0.2.31",
+          "version": {
+            "id": -1128728274577100,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "892e0788531269bfa2f356e4e12825e19d4e5412",
+              "size": 199045,
+              "path": "mods/CTM-MC1.12.2-1.0.2.31.jar",
+              "url": "mods/CTM-MC1.12.2-1.0.2.31.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728274601800,
+          "name": "CustomNPCs_1.12.2-(05Jul20)",
+          "version": {
+            "id": -1128728374080400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "a5469076df8b1d9db4e483131dc94e270b8bc7cd",
+              "size": 9911871,
+              "path": "mods/CustomNPCs_1.12.2-(05Jul20).jar",
+              "url": "mods/CustomNPCs_1.12.2-(05Jul20).jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728374113100,
+          "name": "FluxNetworks-1.12.2-4.1.1.34",
+          "version": {
+            "id": -1128728380706200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "561e36a86cfa0c19cdaddc897f47acebf1909ef3",
+              "size": 475994,
+              "path": "mods/FluxNetworks-1.12.2-4.1.1.34.jar",
+              "url": "mods/FluxNetworks-1.12.2-4.1.1.34.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728380733400,
+          "name": "ForgeMultipart-1.12.2-2.6.2.83-universal",
+          "version": {
+            "id": -1128728393602800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "3306ea22380bc9b6a0170b23fa0251085d5a6e25",
+              "size": 1304958,
+              "path": "mods/ForgeMultipart-1.12.2-2.6.2.83-universal.jar",
+              "url": "mods/ForgeMultipart-1.12.2-2.6.2.83-universal.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728393629500,
+          "name": "FTBLib-5.4.7.2",
+          "version": {
+            "id": -1128728403761200,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "7c20cd223bc2334edf153e074f35acdbcab3c976",
+              "size": 934370,
+              "path": "mods/FTBLib-5.4.7.2.jar",
+              "url": "mods/FTBLib-5.4.7.2.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728403791400,
+          "name": "FTBUtilities-5.4.1.131",
+          "version": {
+            "id": -1128728408850400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "d1f6545ac58ad895f2c8bcd0d4963d92f14b1938",
+              "size": 425832,
+              "path": "mods/FTBUtilities-5.4.1.131.jar",
+              "url": "mods/FTBUtilities-5.4.1.131.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728408880300,
+          "name": "guns-0.15.3-1.12.2",
+          "version": {
+            "id": -1128728417274600,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "0b52ae06c251073ef046e9528ccb1ccfb3168e68",
+              "size": 814386,
+              "path": "mods/guns-0.15.3-1.12.2.jar",
+              "url": "mods/guns-0.15.3-1.12.2.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728417303500,
+          "name": "hole_filler_mod-1.2.4.1-mc_1.12.2-forge",
+          "version": {
+            "id": -1128728419295800,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "8a5ee2d541131f45687ee718a89814126bf34bbc",
+              "size": 147504,
+              "path": "mods/hole_filler_mod-1.2.4.1-mc_1.12.2-forge.jar",
+              "url": "mods/hole_filler_mod-1.2.4.1-mc_1.12.2-forge.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728419315000,
+          "name": "jei_1.12.2-4.16.1.301",
+          "version": {
+            "id": -1128728425629300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "3045e8440ea44071d8b83c4e7b3c190348fdc527",
+              "size": 653211,
+              "path": "mods/jei_1.12.2-4.16.1.301.jar",
+              "url": "mods/jei_1.12.2-4.16.1.301.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728425648700,
+          "name": "journeymap-1.12.2-5.7.1",
+          "version": {
+            "id": -1128728491872500,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "3da4323f71bcadcf140002a9f49578f0cd5ce8a8",
+              "size": 6990968,
+              "path": "mods/journeymap-1.12.2-5.7.1.jar",
+              "url": "mods/journeymap-1.12.2-5.7.1.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728491924500,
+          "name": "obfuscate-0.4.2-1.12.2",
+          "version": {
+            "id": -1128728493638400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "0bc9cb77f1e71d4edf98a40135e0762e6c9f9c35",
+              "size": 129099,
+              "path": "mods/obfuscate-0.4.2-1.12.2.jar",
+              "url": "mods/obfuscate-0.4.2-1.12.2.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728493666700,
+          "name": "SolarFluxReborn-1.12.2-12.4.11",
+          "version": {
+            "id": -1128728500644700,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "521624cbd22f7dcef0ddc9f9f0898b2368439404",
+              "size": 715629,
+              "path": "mods/SolarFluxReborn-1.12.2-12.4.11.jar",
+              "url": "mods/SolarFluxReborn-1.12.2-12.4.11.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728500674500,
+          "name": "techguns-1.12.2-2.0.2.0_pre3.2",
+          "version": {
+            "id": -1128728756328400,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "65a5cc41422bc665ec4b7d5e115efc7d95b002d7",
+              "size": 28126750,
+              "path": "mods/techguns-1.12.2-2.0.2.0_pre3.2.jar",
+              "url": "mods/techguns-1.12.2-2.0.2.0_pre3.2.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728756361900,
+          "name": "vehicle-mod-0.44.1-1.12.2",
+          "version": {
+            "id": -1128728776810900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "67d58525bf858bbce303343c22bec62af38d4a84",
+              "size": 2139906,
+              "path": "mods/vehicle-mod-0.44.1-1.12.2.jar",
+              "url": "mods/vehicle-mod-0.44.1-1.12.2.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728776844800,
+          "name": "Waystones_1.12.2-4.1.0",
+          "version": {
+            "id": -1128728778907900,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "877a5cd3ed8e3f29e900b74c8c5400ee6e43c3bf",
+              "size": 178994,
+              "path": "mods/Waystones_1.12.2-4.1.0.jar",
+              "url": "mods/Waystones_1.12.2-4.1.0.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728778927400,
+          "name": "worldedit-forge-mc1.12.2-6.1.10-dist",
+          "version": {
+            "id": -1128728793419300,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "17314bdab33678478af060d2156338ee34db8a09",
+              "size": 1479535,
+              "path": "mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar",
+              "url": "mods/worldedit-forge-mc1.12.2-6.1.10-dist.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        },
+        {
+          "stateGameElement": "active",
+          "id": -1128728793457100,
+          "name": "WR-CBE-1.12.2-2.3.2.33-universal",
+          "version": {
+            "id": -1128728797379000,
+            "name": "1.0",
+            "metadata": {
+              "sha1": "0bab1c02f1fde38f3cc184d12127ee5eafef7395",
+              "size": 364036,
+              "path": "mods/WR-CBE-1.12.2-2.3.2.33-universal.jar",
+              "url": "mods/WR-CBE-1.12.2-2.3.2.33-universal.jar"
+            }
+          },
+          "userInstall": true,
+          "populateStatus": false
+        }
+      ],
+      "resourcePacks": [],
+      "maps": [],
+      "shaderpacks": [],
+      "forgeVersion": "14.23.5.2860",
+      "gameVersion": "1.12.2",
+      "id": -1128408170142101,
+      "name": "1.0"
+    },
+    "userInstall": false,
+    "populateStatus": false
+  },
+  "source": "local_version_repo",
+  "jar": "1.12.2",
+  "skinVersion": true
+}
